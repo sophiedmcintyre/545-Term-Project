@@ -1,0 +1,15 @@
+<dataDepositFormFields>
+<projectTitle>Resource mapping data by county</projectTitle>
+<principalInvestigator>Das, Sujit</principalInvestigator>
+<summary>County level data on total expenditure and number of children served by program. Some children are served by multiple programs and they are counted each time. Data relate to state fiscal year. Note: '*' means data are to reported or not available.</summary>
+<subjectTerms>
+<subject>Childrens Services</subject>
+<subject>Resource Mapping</subject>
+<subject>Tennessee</subject>
+<subject>County</subject>
+<subject>Funding</subject>
+<subject>TCCY</subject>
+</subjectTerms>
+<geogrpahicCoverage>Tennessee</geogrpahicCoverage>
+<dataType>CSV</dataType>
+</dataDepositFormFields>

@@ -1,0 +1,44 @@
+<resource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://datacite.org/schema/kernel-4" xsi:schemaLocation="http://datacite.org/schema/kernel-4 https://schema.datacite.org/meta/kernel-4.4/metadata.xsd">
+<identifier identifierType="URL">https://data.tn.gov/dataset/resource-mapping-data-by-county/resource/8d375f1d-c084-4e3e-8370-810f6893c777</identifier>
+<creators>
+<creator>
+<creatorName nameType="Personal">Das, Sujit</creatorName>
+</creator>
+<creator>
+<creatorName nameType="Organizational">Tennessee Commission on Children and Youth</creatorName>
+</creator>
+</creators>
+<titles>
+<title xml:lang="en">Resource mapping data by county</title>
+</titles>
+<publisher>Tennessee State Government</publisher>
+<publicationYear>2022</publicationYear>
+<subjects>
+<subject>Childrens Services</subject>
+<subject>Resource Mapping</subject>
+<subject>Tennessee</subject>
+<subject>County</subject>
+<subject>Funding</subject>
+<subject>TCCY</subject>
+</subjects>
+<contributors>
+<contributor contributorType="ContactPerson">
+<contributorName xml:lang="en">Das, Sujit</contributorName>
+</contributor>
+</contributors>
+<dates>
+<date dateType="Created">2022-10-12</date>
+<date dateType="Updated">2022-10-12</date>
+</dates>
+<language>en</language>
+<resourceType resourceTypeGeneral="Dataset">Dataset</resourceType>
+<formats>
+<format>csv</format>
+</formats>
+<rightsList>
+<rights xml:lang="en-US" schemeURI="https://spdx.org/licenses/" rightsIdentifierScheme="SPDX" rightsIdentifier="CC-BY-4.0" rightsURI="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International</rights>
+</rightsList>
+<descriptions>
+<description xml:lang="en" descriptionType="Abstract">County level data on total expenditure and number of children served by program. Some children are served by multiple programs and they are counted each time. Data relate to state fiscal year. Note: '*' means data are to reported or not available.</description>
+</descriptions>
+</resource>
