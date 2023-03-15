@@ -1,5 +1,5 @@
 <resource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://datacite.org/schema/kernel-4" xsi:schemaLocation="http://datacite.org/schema/kernel-4 https://schema.datacite.org/meta/kernel-4.4/metadata.xsd">
-<identifier identifierType="URL">https://data.tn.gov/dataset/resource-mapping-data-by-county/resource/8d375f1d-c084-4e3e-8370-810f6893c777</identifier>
+<identifier>https://data.tn.gov/dataset/resource-mapping-data-by-county/resource/8d375f1d-c084-4e3e-8370-810f6893c777</identifier>
 <creators>
 <creator>
 <creatorName nameType="Personal">Das, Sujit</creatorName>
